@@ -1,0 +1,28 @@
+// general styles for the project that wouldn't be a reuseable component
+
+.tab {
+  &__sections {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid $grey-lighter;
+    margin-bottom: $s4;
+  }
+  &__section {
+    display: inline-block;
+    width: 33.33%;
+    padding: $s1 $s0;
+    text-align: center;
+    @include transition;
+  }
+  &__section.active {
+    background-color: $grey-lighter;
+  }
+  &__contents { overflow: hidden; }
+  &__content {
+    display: none;
+    &.active { display: block; }
+  }
+  // show all tab content without headers with no js
+  .no-js &__sections { display: none; }
+  .no-js &__content { display: block; }
+}

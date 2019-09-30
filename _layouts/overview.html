@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% assign category-pages = site.html_pages | where: "layout", "category" %}
+
+<div class="vpad--xxl bg--light">
+  <div class="container">
+    <div class="width width--lg text--xxl text--center">
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+<div class="container vpad--xxl">
+{% for page in category-pages %}
+  <div class="bob{% cycle '', ' bob--swap' %}">
+    <div class="bob__img">
+      <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');">
+        <a href="{{site.baseurl}}{{page.url}}" class="bg-img__link"></a>
+      </div>
+    </div>
+    <div class="bob__text">
+      <h3 class="title title--color title--xl">{{page.title}}</h3>
+      <p class="text--xl">{{page.intro}}</p>
+      <div class="space--sm"></div>
+      <a id="track-michelin-btn-{{topic.id}}" href="{{site.baseurl}}{{page.url}}" class="btn btn--orange">Discover More</a>
+    </div>
+  </div>
+  {% unless forloop.last %}<div class="space--xxxl"></div>{% endunless %}
+{% endfor %}
+</div>
