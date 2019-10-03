@@ -59,18 +59,18 @@ products:
     product-list:
       - id: 949108
         name: Lena Cord Dress
-        price: 9999
+        price: "22.50"
         link: "#product-link"
       - id: 948852
         name: Sparkle Stripe Tee
-        price: 9999
+        price: "12.50"
         link: "#product-link"
       - id: 949025
         name: Stag Fairisle Jumper
-        price: 9999
+        price: "24.00"
         link: "#product-link"
       - id: 946709
         name: Dark Wash Slim Jeans
-        price: 9999
+        price: "18.00"
         link: "#product-link"
 ---

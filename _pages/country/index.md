@@ -63,26 +63,26 @@ products:
     product-list:
       - id: 946176
         name: Borg Zip Through Sweat
-        price: 9999
+        price: "29.50"
         link: "#product-link"
       - id: 947849
         name: Mulberry Cord Dungarees
-        price: 9999
+        price: "24.00"
         link: "#product-link"
       - id: 948886
         name: Flock Polkadot Crew Sweat
-        price: 9999
+        price: "22.50"
         link: "#product-link"
       - id: 948794
         name: Rachel Beanie
-        price: 9999
+        price: "12.50"
         link: "#product-link"
       - id: 949029
         name: Heavyweight Graphic Tee
-        price: 9999
+        price: "12.50"
         link: "#product-link"
       - id: 946750
         name: Forest Mosedale Beanie
-        price: 9999
+        price: "12.50"
         link: "#product-link"
 ---

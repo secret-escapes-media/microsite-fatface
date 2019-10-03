@@ -59,26 +59,26 @@ products:
     product-list:
       - id: 948876
         name: Jade Embroidered Star Cord Dress
-        price: 9999
+        price: "29.50"
         link: "#product-link"
       - id: 948882
         name: Lazer Spot Moleskin Penny Pinafore
-        price: 9999
+        price: "22.50"
         link: "#product-link"
       - id: 948885
         name: Sequin Star Crew Neck Sweat
-        price: 9999
+        price: "22.50"
         link: "#product-link"
       - id: 946173
         name: Plain Waffle Knit Crew Sweat
-        price: 9999
+        price: "18.00"
         link: "#product-link"
       - id: 949035
         name: Stripe Contrast Raglan
-        price: 9999
+        price: "9.50"
         link: "#product-link"
       - id: 946709
         name: Dark Wash Slim Jeans
-        price: 9999
+        price: "18.00"
         link: "#product-link"
 ---
