@@ -4,9 +4,7 @@ id: overview
 nav: true
 nav-order: 1
 title: Overview
-intro: Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde impedit illum, dolorem, a atque ullam ab distinctio tempora voluptatum quas itaque quaerat dignissimos quod delectus ut totam quia aspernatur. Vitae asperiores ipsa, aperiam ratione perferendis natus repudiandae eius consectetur odit.
 
 banner:
-  title: Winter Breaks
-  title-sub: in partnership with FatFace
+  title: Winter Staycations
 ---

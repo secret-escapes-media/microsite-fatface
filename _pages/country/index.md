@@ -6,9 +6,9 @@ nav-order: 2
 title: Country
 intro: Discover a landscape of crisp morning walks, log-fired pubs and snowy fell-top expeditions. It may be cold, but there’s plenty to warm the soul out in the country...
 contents:
-  - p: Head for the countryside with unmissable hotels below.
   - p: Choose your country pile and pick an outfit to withstand the changeable British weather. Frosty morning walks offer unique refreshment, with dazzlingly sunny days matched by gorgeous wintry surroundings. Plus, nothing beats a roaring fire in a country pub after a long day’s hike, with seasonal fare to boot. Delicious.
-  - p: Practical clothing doesn’t have to mean dull; men, add a touch of colour with a woollen overshirt and keep the worst of the weather at bay with a toasty gilet. Women can keep it understated with a cosy bobble jumper and classic Sussex jacket, the perfect country pairing. Nothing is cuter than a kid in dungarees. Layer underneath with a crew sweater and keep them warm with a fleecy coat.
+  - p: Practical clothing doesn’t have to mean dull; men, add a touch of colour with a woollen overshirt and keep the worst of the weather at bay with a toasty gilet. For her, keep it understated with a cosy bobble jumper and classic Sussex jacket, the perfect country pairing. Nothing is cuter than a kid in dungarees. Layer underneath with a crew sweater and keep them warm with a fleecy coat.
+offers-title: Head for the countryside with unmissable hotels
 
 products:
   - id: womens
