@@ -4,19 +4,19 @@
   &__sections {
     display: flex;
     align-items: center;
-    border-bottom: 2px solid $grey-lighter;
+    border-bottom: 2px solid $f-blue-lighter;
     margin-bottom: $s4;
   }
   &__section {
     display: inline-block;
     width: 33.33%;
-    padding: $s1 $s0;
+    padding: $s2 $s0 $s0;
     text-align: center;
+    color: $f-blue;
     @include transition;
+    &:hover { background-color: $f-blue-lightest }
   }
-  &__section.active {
-    background-color: $grey-lighter;
-  }
+  &__section.active { background-color: $f-blue-lighter; }
   &__contents { overflow: hidden; }
   &__content {
     display: none;
@@ -26,3 +26,12 @@
   .no-js &__sections { display: none; }
   .no-js &__content { display: block; }
 }
+
+
+// temp bg
+.overview .banner__bg { background-image: url('../img/content/overview/bg.jpg'); }
+.city .banner__bg { background-image: url('../img/content/city/bg.jpg'); }
+.coast .banner__bg { background-image: url('../img/content/coast/bg.jpg'); }
+.country .banner__bg { background-image: url('../img/content/country/bg.jpg'); }
+.competition .banner__bg { background-image: url('../img/content/competition/bg.jpg'); }
+.banner__bg { background-image: url('../img/img.jpg'); }

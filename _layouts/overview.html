@@ -4,29 +4,24 @@ layout: default
 
 {% assign category-pages = site.html_pages | where: "layout", "category" %}
 
-<div class="vpad--xxl bg--light">
+<div class="vpad--xl bg--blue text--white">
   <div class="container">
-    <div class="width width--lg text--xxl text--center">
+    <div class="width width--lg text--xl text--normal text--center">
       <p>{{page.intro}}</p>
     </div>
   </div>
 </div>
 
-<div class="container vpad--xxl">
 {% for page in category-pages %}
-  <div class="bob{% cycle '', ' bob--swap' %}">
-    <div class="bob__img">
-      <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');">
-        <a href="{{site.baseurl}}{{page.url}}" class="bg-img__link"></a>
-      </div>
+  <div class="harvey{% cycle '', ' harvey--swap' %} bg--blue-light">
+    <div class="harvey__img" style="background-image: url('{{site.img}}/content/{{page.id}}/nav.jpg');">
+      <a class="harvey__link" href="{{site.baseurl}}{{page.url}}"></a>
     </div>
-    <div class="bob__text">
-      <h3 class="title title--color title--xl">{{page.title}}</h3>
+    <div class="harvey__text">
+      <h3 class="title title--color title--xxl">{{page.title}}</h3>
       <p class="text--xl">{{page.intro}}</p>
       <div class="space--sm"></div>
-      <a id="track-michelin-btn-{{topic.id}}" href="{{site.baseurl}}{{page.url}}" class="btn btn--orange">Discover More</a>
+      <a href="{{site.baseurl}}{{page.url}}" class="btn btn--blue">Discover More</a>
     </div>
   </div>
-  {% unless forloop.last %}<div class="space--xxxl"></div>{% endunless %}
 {% endfor %}
-</div>

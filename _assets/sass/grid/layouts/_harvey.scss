@@ -1,8 +1,6 @@
 .harvey {
-
   // harvey breakpoint
   $bp: $xxl;
-
   // default styles
   display: flex;
   flex-direction: column;
@@ -11,7 +9,6 @@
     flex-direction: row;
     &--swap { flex-direction: row-reverse; }
   }
-
   // element styles
   &__text,
   &__img {
@@ -22,13 +19,14 @@
     max-width: $lg;
     margin-left: auto;
     margin-right: auto;
-    padding-top: $s4;
-    padding-bottom: $s8;
+    padding-top: $s6;
+    padding-bottom: $s9;
+    @include page-padding;
     @include bp($bp) {
-      padding-top: $s12;
+      padding-top: $s15;
       padding-left: $s4;
       padding-right: $s4;
-      padding-bottom: $s12;
+      padding-bottom: $s15;
     }
   }
   &__img {
@@ -46,5 +44,4 @@
     right: 0;
     bottom: 0;
   }
-
 }

@@ -3,7 +3,6 @@ layout: competition
 id: competition
 nav: true
 nav-order: 5
-nav-title: Win
 
 title: Compet&shy;ition
 long-title: Win an amazing prize to destination with five star hotel

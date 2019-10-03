@@ -15,4 +15,6 @@
     @include background-attributes;
     background-color: $grey-darker;
   }
+  &--blue { background-color: $f-blue; }
+  &--blue-light {background-color: #eaebec; }
 }

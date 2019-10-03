@@ -1,11 +1,11 @@
 # Site settings
-title: Fat Face Winter Breaks
+title: Winter Breaks
 client:
-  name: Fat Face
+  name: FatFace
   link: https://www.fatface.com/
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Time to batten down the hatches; as winter approaches, it might feel like your prospects of escaping the house are limited. But there’s no need to bury yourself under your duvet; together with Fat Face, we’ve put together the UK’s finest winter staycations for the whole family. So whether your thing is a stylish city getaway or a revitalising escape to the coast, find your next staycation here and wrap up warm with a choice selection of looks from Fat Face. Time for your stylish staycation.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site

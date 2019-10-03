@@ -17,6 +17,17 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
+  &--blue { background-color: $f-blue;
+    &:hover { background-color: $f-blue-dark; }
+  }
+  &--white {
+    color: $grey-darker;
+    background-color: $white;
+    &:hover {
+      color: $white;
+      background-color: $f-blue-dark;
+    }
+  }
   &--outline {
     color: inherit;
     &:before {
@@ -39,6 +50,14 @@
       color: $white;
       background-color: $orange;
       &:before { border-color: $orange; }
+    }
+  }
+  &--outline-blue {
+    &:before { border-color: $f-blue; }
+    &:hover {
+      color: $white;
+      background-color: $f-blue;
+      &:before { border-color: $f-blue; }
     }
   }
 }

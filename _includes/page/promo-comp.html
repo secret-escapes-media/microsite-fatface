@@ -1,13 +1,13 @@
 {% assign competition-page = site.html_pages | where: 'id', 'competition' | first %}
-<div class="vpad--xxxl bg--img text--white bg--dark" style="background-image: url('{{site.img}}/img.jpg');">
+<div class="vpad--xxxxl bg--img text--white bg--dark" style="background-image: url('{{site.img}}/content/competition/banner.jpg');">
   <div class="container container--100">
     <div class="row row--xxl-6-6 row--no-gutters">
       <div class="col">
         <div class="width width--lg">
-          <h2 class="title title--xl">{{competition-page.long-title}}</h2>
+          <h2 class="title title--xxxl">{{competition-page.long-title}}</h2>
           <p class="text--normal text--xxl space--xxs">{{competition-page.intro}}</p>
           <div class="space--md"></div>
-          <a id="track-btn-footer-competition" href="{{site.baseurl}}{{competition-page.url}}" class="btn btn--lg btn--orange">Enter Now</a>
+          <a id="track-btn-footer-competition" href="{{site.baseurl}}{{competition-page.url}}" class="btn btn--lg btn--white">Enter Now</a>
         </div>
       </div>
       <div class="col"></div>

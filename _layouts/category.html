@@ -7,29 +7,30 @@ layout: default
   <div class="container">
 
     <div class="row row--valign-center">
-      <div class="col col--7">
-        <p class="text--xxl">{{page.long-intro}}</p>
-        <p class="text--xxl">{{page.long-intro}}</p>
+      <div class="col col--xl-6 col--xxl-7">
+        {% for item in page.contents %}
+          <p class="text--xxl">{{item.p}}</p>
+        {% endfor %}
       </div>
-      <div class="col col--5">
-        <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
-        <div class="row row--6-6 row--no-gutters">
+      <div class="col col--xl-6 col--xxl-5">
+        <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');"></div>
+        <div class="row row--constant-6-6 row--no-gutters">
           <div class="col">
-            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg');"></div>
           </div>
           <div class="col">
-            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="space--xxxl"></div>
+    <div class="space--xxl"></div>
 
     <div class="tab">
       <div class="tab__sections">
         {% for item in page.products %}
-          <a class="js-tab-section tab__section" href="#{{item.id}}" data-tab-content="{{item.id}}"><span class="title title--xxxs">{{item.name}}</span></a>
+          <a class="js-tab-section tab__section" href="#{{item.id}}" data-tab-content="{{item.id}}"><span class="title title--xxs">{{item.name}}</span></a>
         {% endfor %}
       </div>
       <div class="tab__contents">
@@ -38,16 +39,19 @@ layout: default
             <div class="row row--gutters-sm row--sm-6-6 row--lg-4-4-4 row--xl-3-3-3-3">
               {% for product in item.product-list %}
                 <div class="col text--center">
-                  <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/img.jpg');">
+                  <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/content/product/{{product.id}}.jpg');">
+                    <div class="bg-img__bg-overlay"></div>
                     <a href="{{product.link}}" class="bg-img__link"></a>
                   </div>
-                  <div class="text--xxl space--xs"><a href="{{product.link}}">{{item.name}} {{product.name}}</a></div>
-                  <div class="text--bold"><a href="{{product.link}}">£{{product.price}}</a></div>
+                  <div class="boxpad--md">
+                    <div class="text--xl" style="line-height: 1.33; padding-bottom: .2em;"><a href="{{product.link}}">{{item.name}} {{product.name}}</a></div>
+                    <div class="text--bolder"><a href="{{product.link}}">£{{product.price}}</a></div>
+                  </div>
                 </div>
               {% endfor %}
-              <div class="space--xl text--center">
-                <a href="{{item.link}}" class="btn btn--outline btn--outline-orange">See {{item.name}} products</a>
-              </div>
+            </div>
+            <div class="space--xl text--center">
+              <a href="{{item.link}}" class="btn btn--outline btn--outline-blue">See {{item.name}} products</a>
             </div>
           </div>
         {% endfor %}
