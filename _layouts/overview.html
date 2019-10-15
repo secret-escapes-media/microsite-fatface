@@ -7,17 +7,17 @@ layout: default
 <div class="vpad--xl bg--blue text--white">
   <div class="container">
     <div class="width width--lg text--xl text--normal text--center">
-      <p>{{site.description}}</p>
+      <p class="animated" data-animation="fadeIn">{{site.description}}</p>
     </div>
   </div>
 </div>
 
 {% for page in category-pages %}
   <div class="harvey{% cycle '', ' harvey--swap' %} bg--blue-light">
-    <div class="harvey__img" style="background-image: url('{{site.img}}/content/{{page.id}}/nav.jpg');">
+    <div class="harvey__img animated faster" style="background-image: url('{{site.img}}/content/{{page.id}}/nav.jpg');" data-animation="slideFadeLeft">
       <a class="harvey__link" href="{{site.baseurl}}{{page.url}}"></a>
     </div>
-    <div class="harvey__text">
+    <div class="harvey__text animated faster" data-animation="slideFadeRight">
       <h3 class="title title--color title--xxl">{{page.title}}</h3>
       <p class="text--xl">{{page.intro}}</p>
       <div class="space--sm"></div>

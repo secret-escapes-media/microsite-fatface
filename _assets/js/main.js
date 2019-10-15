@@ -1,5 +1,9 @@
 // general js for the project that wouldn't be a reuseable component
 
+////////////////////////////////////////////////////////////////////////////////
+//    fatface product tabs
+////////////////////////////////////////////////////////////////////////////////
+
 // set variables
 var sectionClass = 'js-tab-section';
 var sections     = $('.' + sectionClass);
@@ -34,3 +38,36 @@ $('.js-tab-section').on('click', function(e){
   e.preventDefault();
   showTab($(this).data('tab-content'));
 })
+
+
+////////////////////////////////////////////////////////////////////////////////
+//    general animation
+////////////////////////////////////////////////////////////////////////////////
+
+// enable animations if browser supports them
+if ( Modernizr.csstransforms && Modernizr.csstransitions ) {
+  $('html').removeClass('no-animations');
+}
+
+// animate when element is on page
+(function() {
+  var elements;
+  var windowHeight;
+  function init() {
+    elements = $('.animated');
+    windowHeight = window.innerHeight;
+  }
+  function checkPosition() {
+    for (var i = 0; i < elements.length; i++) {
+      var element = elements[i];
+      var positionFromTop = elements[i].getBoundingClientRect().top;
+      if (positionFromTop - (windowHeight - 200) <= 0) {
+        element.classList.add(element.dataset.animation);
+      }
+    }
+  }
+  window.addEventListener('scroll', checkPosition);
+  window.addEventListener('resize', init);
+  init();
+  checkPosition();
+})();

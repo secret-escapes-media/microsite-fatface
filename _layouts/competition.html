@@ -3,7 +3,7 @@ layout: default
 banner:
   content: >
     <div class="container container--no-padding">
-      <div class="width width--xxl text--center">
+      <div class="width width--xxl text--center animated faster" data-animation="slideFadeUp">
         <h1 class="title title--xxxxl">{{page.long-title}}</h1>
         <div class="space--sm"></div>
         <a href="#entry-form" class="btn btn--lg btn--blue">{{page.enter-cta}}</a>
@@ -15,10 +15,10 @@ banner:
   <div class="container">
     <div class="space--xxl"></div>
     <div class="width width--lg text--xl text--normal text--center">
-      <p>{{page.intro}}</p>
+      <p class="animated" data-animation="fadeIn">{{page.intro}}</p>
     </div>
     <div class="space--xl"></div>
-    <div class="row row--constant-4-4-4 row--gutters-sm">
+    <div class="row row--constant-4-4-4 row--gutters-sm animated" data-animation="fadeIn">
       <div class="col">
         <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/img.jpg');"></div>
       </div>
@@ -35,7 +35,7 @@ banner:
 
 <div class="vpad--xl bg--blue-light">
   <div class="container">
-    <div id="entry-form" class="vpad--md">
+    <div id="entry-form" class="vpad--md animated" data-animation="fadeIn">
       {% assign form = page.competition-form %}
       <form class="form boilerform competition-form" action="{{form.post-url}}" method="POST" data-expires="{{form.expiry-date}}" novalidate>
         {% include form/messages.html %}

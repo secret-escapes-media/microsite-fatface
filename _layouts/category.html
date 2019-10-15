@@ -6,20 +6,20 @@ layout: default
 <div class="vpad--xxl bg--light">
   <div class="container">
 
-    <div class="row row--valign-center">
+    <div class="row row--gutters-lg row--valign-center">
       <div class="col col--xl-6 col--xxl-7">
         {% for item in page.contents %}
-          <p class="text--xxl">{{item.p}}</p>
+          <p class="text--xxl animated" data-animation="fadeIn">{{item.p}}</p>
         {% endfor %}
       </div>
       <div class="col col--xl-6 col--xxl-5">
-        <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');"></div>
-        <div class="row row--constant-6-6 row--no-gutters">
+        <div class="bg-img bg-img--3-2 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');" ></div>
+        <div class="row row--constant-6-6 row--no-gutters" style="transform: translate(1.25em, -1.25em);">
           <div class="col">
-            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg');"></div>
+            <div class="bg-img bg-img--1-1 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg'); transform: translate(0px, -1.25em);"></div>
           </div>
           <div class="col">
-            <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
+            <div class="bg-img bg-img--1-1 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@ layout: default
 
     <div class="space--xxl"></div>
 
-    <div class="tab">
+    <div class="tab animated" data-animation="fadeIn">
       <div class="tab__sections">
         {% for item in page.products %}
           <a class="js-tab-section tab__section" href="#{{item.id}}" data-tab-content="{{item.id}}"><span class="title title--xxs">{{item.name}}</span></a>
@@ -63,9 +63,9 @@ layout: default
 
 <div class="container vpad--xxl">
   <div class="vpad--md text--center">
-    <h2 class="title title--lg">{{page.offers-title}}</h2>
+    <h2 class="title title--lg animated" data-animation="slideFadeUp">{{page.offers-title}}</h2>
   </div>
-  <div class="row row--xl-6-6 row--gutters-lg">
+  <div class="row row--xl-6-6 row--gutters-lg animated" data-animation="fadeIn">
     {% for offer in category-offers %}
       <div class="col">
         {% include offer/offer.html %}
