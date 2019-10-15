@@ -36,7 +36,7 @@ competition-form:
           invalid: true
     - id: opt-in
       type: radio
-      label: Would you like to receive emails from our Partner brand?
+      label: Would you like to receive emails with exclusive offers and early sale access from FatFace? (you can unsubscribe at any time)
       required: true
       options:
         - id: opt-in-true

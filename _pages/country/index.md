@@ -12,7 +12,7 @@ offers-title: Head for the countryside with unmissable hotels
 
 products:
   - id: womens
-    name: Womens
+    name: Women
     link: https://www.fatface.com/women
     product-list:
       - id: 945148
@@ -33,7 +33,7 @@ products:
         link: "#product-link"
 
   - id: mens
-    name: Mens
+    name: Men
     link: https://www.fatface.com/men
     product-list:
       - id: 945450

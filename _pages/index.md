@@ -7,4 +7,5 @@ title: Overview
 
 banner:
   title: Winter Staycations
+  title-sub: In partnership with FatFace
 ---
