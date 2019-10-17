@@ -93,3 +93,19 @@ body { overflow-x: hidden; }
 // cancels out all animations if modernizr fails
 .no-animations .animated { animation: none; opacity: 1; }
 .no-animations body { overflow-x: visible; }
+
+
+
+///////////////////////////////////////////////////////////////// Promo code box
+
+.promo-code {
+  padding: $s-1;
+  margin-top: $s2;
+  margin-bottom: $s3;
+  font-size: $s1;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .25rem;
+  border: 1px solid rgba($f-blue, .5);
+  &--white { border: 1px solid rgba($white, .5); }
+}

@@ -24,8 +24,7 @@
     color: $grey-darker;
     background-color: $white;
     &:hover {
-      color: $white;
-      background-color: $f-blue-dark;
+      background-color: lighten($f-blue, 60);
     }
   }
   &--outline {
