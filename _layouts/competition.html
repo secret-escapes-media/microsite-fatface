@@ -3,33 +3,33 @@ layout: default
 banner:
   content: >
     <div class="container container--no-padding">
-      <div class="width width--xxl text--center animated faster" data-animation="slideFadeUp">
-        <h1 class="title title--xxxxl">{{page.long-title}}</h1>
+      <div class="width width--xl text--center animated faster" data-animation="slideFadeUp">
+        <h1 class="title title--xxxl">{{page.long-title}}</h1>
         <div class="space--sm"></div>
-        <a href="#entry-form" class="btn btn--lg btn--blue">{{page.enter-cta}}</a>
+        <a href="#entry-form" class="btn btn--lg btn--white">{{page.enter-cta}}</a>
       </div>
     </div>
 ---
 
 <div class="bg--blue text--white">
   <div class="container">
-    <div class="space--xxl"></div>
-    <div class="width width--lg text--xl text--normal text--center">
+    <div class="space--xxl width width--lg text--xl text--normal text--center">
       <p class="animated" data-animation="fadeIn">{{page.intro}}</p>
     </div>
-    <div class="space--xl"></div>
-    <div class="row row--constant-4-4-4 row--gutters-sm animated" data-animation="fadeIn">
-      <div class="col">
-        <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/img.jpg');"></div>
-      </div>
-      <div class="col">
-        <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/img.jpg');"></div>
-      </div>
-      <div class="col">
-        <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/img.jpg');"></div>
-      </div>
+    <div class="width width--xxl space--xxl">
+      {% for item in page.features %}
+        <div class="bob{% cycle '', ' bob--swap' %} animated"  data-animation="fadeIn">
+          <div class="bob__img">
+            <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/{{item.id}}.jpg');"></div>
+          </div>
+          <div class="bob__text">
+            <h2 class="title title--lg">{{item.title}}</h2>
+            <p class="text--normal text--xl">{{item.description}}</p>
+          </div>
+        </div>
+      {% endfor %}
     </div>
-    <div class="space--xxl"></div>
+    <div class="space--xxxl"></div>
   </div>
 </div>
 

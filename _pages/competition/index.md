@@ -4,10 +4,20 @@ id: competition
 nav: true
 nav-order: 5
 
-title: Compet&shy;ition
-long-title: Win an amazing prize to destination with five star hotel
-intro: Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde impedit illum, dolorem, a atque ullam ab distinctio tempora voluptatum quas itaque quaerat dignissimos quod delectus ut totam quia aspernatur. Vitae asperiores ipsa, aperiam ratione perferendis natus repudiandae eius consectetur odit.
+title: Competition
+long-title: Win a luxurious winter staycation at the gorgeous Bovey Castle
+intro: Take the family for two nights in the grounds of the Bovey Castle Estate, keeping the cold at bay in one of the five-star private lodges that dot the beautiful grounds. The lodge is every bit as breathtaking as the views, typical of the wild Dartmoor countryside that surrounds Bovey. To complete your winter escape, wrap up with a £500 spend at FatFace, plus a host of incredible outdoor activities.
 enter-cta: Enter Now
+
+features:
+
+  - id: hotel
+    title: The Stay
+    description: Bovey Castle is a regal estate packed with classic charm. In the woodland and landscaped grounds, your five-star lodge offers sumptuous luxury, with a roaring fire to fend off the chill. You and your family will enjoy a deer park tour, an archery session, and a delicious night in the Smith’s Brasserie.
+
+  - id: voucher
+    title: The Look
+    description: Layer up for your winter getaway with FatFace. With a range of cold-weather staples to fill your suitcase with, enjoy your £500 spend with FatFace and get the winter look for your opulent getaway.
 
 competition-form:
   id: comp
