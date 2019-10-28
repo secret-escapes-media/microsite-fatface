@@ -1,79 +1,59 @@
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: The Bonham Hotel
+  location: Edinburgh, Scotland
+  description: Sophisticated Edinburgh townhouse in the West End
+  price: 124
+  price-description: per room per night
+  saved: 43
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98728/0ee1c574_a7cc_4c22_bfe3_bdd7521117cd.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-bonham-hotel-edinburgh-scotland-uk/sale
 
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: No.15 Great Pulteney
+  location: Bath, Somerset
+  description: A curio-filled boutique hotel in historic Bath
+  price: 109
+  price-description: per room per night
+  saved: 43
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85243/338f1a6d_999f_4a12_bc91_62d14610c899.jpg?auto=format,compress
+  link: https://www.secretescapes.com/no15-great-pulteney-bath-somerset/sale
 
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: CitySuites Manchester
+  location: City Centre, Manchester
+  description: Luxe central Manchester apartment stay next to chic shops
+  price: 100
+  price-description: per room per night
+  saved: 39
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75497/235b1c01_b464_4ce5_997b_9073b26069e3.jpg?auto=format,compress
+  link: https://www.secretescapes.com/citysuites-manchester-city-centre-manchester/sale
 
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: The Collective Canary Wharf
+  location: Canary Wharf, London
+  description: New co-living space in London's Canary Wharf
+  price: 68
+  price-description: per room per night
+  saved: 37
+  expires: 2019/10/29
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103258/68553e0d_d5ea_4f04_9673_38100bbe5f19.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-collective-canary-wharf-canary-wharf-london/sale
 
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: Middletons Hotel
+  location: York, North Yorkshire
+  description: Grade II-listed York pad with idyllic gardens
+  price: 89
+  price-description: per room per night
+  saved: 36
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103444/c9263485_7153_459a_bc97_64818a4c7145.jpg?auto=format,compress
+  link: https://www.secretescapes.com/middletons-hotel-york-north-yorkshire/sale
 
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
-
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
-
-- title: City offer lorem ipsum dolor sit amet consectetur
-  id: offer-id
-  location: Minima distinctio natus a pariatur esse magni
-  description: Excepturi voluptatum quo ratione dolorem qui velit architecto modi nostrum maiores praesentium vero unde atque dolores non repellendus, inventore recusandae pariatur asperiores placeat quas ea aperiam accusantium optio nulla.
-  price: 9999
-  price-description: per person for 99 nights
-  saved: 99
-  expires: 2020/12/30
-  link: "#offer-link"
+- title: Hotel du Vin Henley on Thames
+  location: Henley-on-Thames, Oxfordshire
+  description: Characterful Hotel du Vin stay in Henley
+  price: 109
+  price-description: per room per night
+  saved: 35
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103237/559d575a_047f_407b_9ba3_41afafe9923c.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-du-vin-henley-on-thames-henley-on-thames-oxfordshire/sale
