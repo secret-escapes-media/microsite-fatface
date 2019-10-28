@@ -45,9 +45,9 @@ products:
         price: "49.50"
         link: "#product-link"
       - id: 945134
-        name: product title
+        name: Slim Dark Vintage Wash Jeans
         price: "59.00"
-        link: Slim Dark Vintage Wash Jeans
+        link: "#product-link"
       - id: 945476
         name: Cashmere Crew Sweat
         price: "99.00"

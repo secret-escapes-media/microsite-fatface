@@ -17,7 +17,7 @@
     &:hover { background-color: $f-blue-lightest }
   }
   &__section.active { background-color: $f-blue-lighter; }
-  &__contents { overflow: hidden; }
+  // &__contents { overflow: hidden; } // I cant really remember why this was here
   &__content {
     display: none;
     &.active { display: block; }
@@ -108,4 +108,27 @@ body { overflow-x: hidden; }
   letter-spacing: .25rem;
   border: 1px solid rgba($f-blue, .5);
   &--white { border: 1px solid rgba($white, .5); }
+}
+
+
+////////////////////////////////////////////////////////// Special product hover
+
+.product {
+  position: relative;
+  z-index: $z-content;
+  @include transition;
+  .bg-img { background-color: $white; }
+  &__link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: $z-content-upper;
+  }
+  .no-touch &:hover {
+    background-color: $white;
+    transform: scale(1.025);
+    box-shadow: 0px 8px 44px 0px rgba($black, .1);
+  }
 }

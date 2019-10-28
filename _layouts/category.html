@@ -39,13 +39,14 @@ layout: default
             <div class="row row--gutters-sm row--sm-6-6 row--lg-4-4-4 row--xl-3-3-3-3">
               {% for product in item.product-list %}
                 <div class="col text--center">
-                  <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/content/product/{{product.id}}.jpg');">
-                    <div class="bg-img__bg-overlay"></div>
-                    <a href="{{product.link}}" class="bg-img__link"></a>
-                  </div>
-                  <div class="boxpad--md">
-                    <div class="text--xl" style="line-height: 1.33; padding-bottom: .2em;"><a href="{{product.link}}">{{item.name}} {{product.name}}</a></div>
-                    <div class="text--bolder"><a href="{{product.link}}">£{{product.price}}</a></div>
+                  <div class="product">
+                    <a href="{{product.link}}" class="product__link"></a>
+                    <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/content/product/{{product.id}}.jpg');">
+                    </div>
+                    <div class="boxpad--md">
+                      <div class="text--xl" style="line-height: 1.33; padding-bottom: .2em;"><a href="{{product.link}}">{{product.name}}</a></div>
+                      <div class="text--bolder"><a href="{{product.link}}">£{{product.price}}</a></div>
+                    </div>
                   </div>
                 </div>
               {% endfor %}
