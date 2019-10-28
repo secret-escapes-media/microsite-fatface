@@ -7,7 +7,7 @@ title: Coast
 intro: There’s a wild beauty to Britain's coastline in winter. Better still, you’ll most likely have all of it to yourself, with the roaring sea guiding you past homely pubs and wildlife encounters...
 contents:
   - p: Brace yourself for a blustery trip to the coast. The weather is worth it; this is your chance to discover Britain’s raw coastal beauty and, most importantly, have it all to yourself. Revitalising beach walks, exploring sea caves and crags, maybe even stumbling across a bob of seals – naturally finishing in a toasty sea-view restaurant for the catch of the day.
-  - p: There are just two essential staples for a beach escape at this time of year – for her, a thick coat like the Cumbria puffer will keep the worst of the wind at bay, with an iconic Breton tee a must for any sea sojourn. The men’s cord deck jacket is one of those timeless staples that go with just about anything and for kids, dark jeans and a warm jumper will keep them looking cool no matter how many puddles and sandcastles they throw themselves at.
+  - p: There are just a few essential staples for a beach escape at this time of year – for her, a thick coat like the Cumbria puffer will keep the worst of the wind at bay, with an iconic Breton tee a must for any sea sojourn. The men’s cord deck jacket is one of those timeless staples that go with just about anything and for kids, dark jeans and a warm jumper will keep them looking cool no matter how many puddles and sandcastles they throw themselves at.
 offers-title: Discover enticing coastal escapes for a luxury getaway
 
 products:
