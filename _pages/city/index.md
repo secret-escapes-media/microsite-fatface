@@ -7,7 +7,7 @@ title: City
 intro: Head for the buzz of the city, dipping into festive markets and catching dazzling shows as you soak up the electric atmosphere in the run-up to Christmas...
 contents:
   - p: Match your luxury hotel pick with an outfit to suit your escape. From days exploring bustling markets and foodie gems, to evenings that require a smarter look for checking-in to talked-about restaurants and catching that must-see show, pair your boutique stay with a boutique look.
-  - p: For her, a jumpsuit is perfect for layering with a cosy turtle neck, or they can match a long-sleeve evening dress with thick tights for a stylish evening look. For him, there’s no need to look stuffy either, with quality denim and warm but fashionable shirts and overshirts. Keep the kids toasty with cosy statement knits that won’t lead to any complaints about the cold.
+  - p: For her, a jumpsuit is perfect for layering with a cosy turtle neck, or she can match a long-sleeve evening dress with thick tights for a stylish evening look. For him, there’s no need to look stuffy either, with quality denim and warm but fashionable shirts and overshirts. Keep the kids toasty with cosy statement knits that won’t lead to any complaints about the cold.
 offers-title: Find your perfect city escape
 
 products:
