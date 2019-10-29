@@ -61,7 +61,7 @@ if ( Modernizr.csstransforms && Modernizr.csstransitions ) {
     for (var i = 0; i < elements.length; i++) {
       var element = elements[i];
       var positionFromTop = elements[i].getBoundingClientRect().top;
-      if (positionFromTop - (windowHeight - 200) <= 0) {
+      if (positionFromTop - (windowHeight / 1.25) <= 0 && element.dataset.animation) {
         element.classList.add(element.dataset.animation);
       }
     }

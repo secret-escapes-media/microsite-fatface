@@ -7,19 +7,19 @@ layout: default
   <div class="container">
 
     <div class="row row--gutters-lg row--valign-center">
-      <div class="col col--xl-6 col--xxl-7">
+      <div class="col col--xl-6 col--xxl-7 animated" data-animation="fadeIn">
         {% for item in page.contents %}
-          <p class="text--xxl animated" data-animation="fadeIn">{{item.p}}</p>
+          <p class="text--xxl">{{item.p}}</p>
         {% endfor %}
       </div>
-      <div class="col col--xl-6 col--xxl-5">
-        <div class="bg-img bg-img--3-2 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');" ></div>
+      <div class="col col--xl-6 col--xxl-5 category-image animated" data-animation="animation-category-images">
+        <div class="bg-img bg-img--3-2 animated" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');" ></div>
         <div class="row row--constant-6-6 row--no-gutters" style="transform: translate(1.25em, -1.25em);">
           <div class="col">
-            <div class="bg-img bg-img--1-1 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg'); transform: translate(0px, -1.25em);"></div>
+            <div class="bg-img bg-img--1-1 animated delay-25ms" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg');"></div>
           </div>
           <div class="col">
-            <div class="bg-img bg-img--1-1 animated" data-animation="fadeIn" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
+            <div class="bg-img bg-img--1-1 animated delay-5ms" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@ layout: default
               {% for product in item.product-list %}
                 <div class="col text--center">
                   <div class="product">
-                    <a href="{{product.link}}" class="product__link"></a>
+                    <a id="track-{{page.id}}-{{item.id}}-{{product.id}}" href="{{product.link}}" class="product__link"></a>
                     <div class="bg-img bg-img--1-1" style="background-image: url('{{site.img}}/content/product/{{product.id}}.jpg');">
                     </div>
                     <div class="boxpad--md">
@@ -54,7 +54,7 @@ layout: default
             <div class="space--xl width width--lg text--xl text--normal text--center">
               <p>See something you like? Head straight over to FatFace and claim your <strong>exclusive Secret&nbsp;Escapes 15% discount</strong> using the following code when you checkout!</p>
               <div class="promo-code">PROMOCODE</div>
-              <a href="{{item.link}}" class="btn btn--blue">Shop {{item.name}}</a>
+              <a id="track-{{page.id}}-{{item.id}}-shop-btn" href="{{item.link}}" class="btn btn--blue">Shop {{item.name}}</a>
             </div>
           </div>
         {% endfor %}

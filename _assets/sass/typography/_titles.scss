@@ -29,6 +29,12 @@
     &--xxs    { font-size: $s2; }
     &--xxxs   { font-size: $s1; }
   }
+  &--competition {
+    font-size: $s6;
+    @include bp("370px"){ font-size: $s7; }
+    @include bp("580px"){ font-size: $s8; }
+    @include bp($xl){ font-size: $s9; }
+  }
 }
 
 .sub-title {
@@ -80,10 +86,34 @@
   text-transform: uppercase;
   letter-spacing: .25rem;
   line-height: 1;
-  font-size: $s8;
-  @include bp($md){ font-size: $s10; }
-  @include bp($xl){ font-size: 10rem; }
+  font-size: $s9;
+  @include bp($sm){ font-size: $s10; }
+  @include bp($md){ font-size: $s11; }
+  @include bp($lg){ font-size: $s13; }
+  &--overview {
+    font-size: $s7;
+    @include bp("330px"){ font-size: $s8; }
+    @include bp("370px"){ font-size: $s9; }
+    @include bp("500px"){ font-size: $s10; }
+    @include bp($lg){ font-size: $s12; }
+    @include bp($xxl){ font-size: 10rem; }
+  }
 }
+
+// .banner-title {
+//   // custom banner headline
+//   font-family: $font-title-01;
+//   font-weight: 700;
+//   text-transform: uppercase;
+//   letter-spacing: .25rem;
+//   line-height: 1;
+//   font-size: $s7;
+//   @include bp("330px"){ font-size: $s8; }
+//   @include bp("370px"){ font-size: $s9; }
+//   @include bp("500px"){ font-size: $s10; }
+//   @include bp($lg){ font-size: $s12; }
+//   @include bp($xxl){ font-size: 10rem; }
+// }
 
 .banner-sub-title {
   // custom banner sub or pre headline
@@ -92,8 +122,9 @@
   text-transform: uppercase;
   letter-spacing: .2rem;
   line-height: 1.1;
-  font-size: $s3;
-  @include bp($md){ font-size: $s4; }
-  @include bp($xl){ font-size: $s5; }
+  font-size: $s2;
+  @include bp($sm){ font-size: $s3; }
+  @include bp($lg){ font-size: $s4; }
+  @include bp($xxl){ font-size: $s5; }
   .banner-title + & { margin-top: $s-2; }
 }

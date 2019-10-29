@@ -6,21 +6,21 @@ layout: default
 
 <div class="vpad--xl bg--blue text--white">
   <div class="container">
-    <div class="width width--lg text--xl text--normal text--center">
-      <p class="animated" data-animation="fadeIn">{{site.description}}</p>
+    <div class="width width--lg text--xl text--normal text--center animated" data-animation="fadeIn">
+      <p>{{site.description}}</p>
       <p>See something you like? Head straight over to FatFace and claim your <strong>exclusive Secret&nbsp;Escapes 15% discount</strong> using the following code when you checkout!</p>
       <div class="promo-code promo-code--white">PROMOCODE</div>
-      <a href="{{site.client.link}}" class="btn btn--white">Shop The Collection</a>
+      <a id="track-intro-shop-btn" href="{{site.client.link}}" class="btn btn--white">Shop The Collection</a>
     </div>
   </div>
 </div>
 
 {% for page in category-pages %}
-  <div class="harvey{% cycle '', ' harvey--swap' %} bg--blue-light">
-    <div class="harvey__img animated faster" style="background-image: url('{{site.img}}/content/{{page.id}}/nav.jpg');" data-animation="slideFadeLeft">
+  <div class="harvey{% cycle '', ' harvey--swap' %} bg--blue-light animated fast" data-animation="animation-overview-harvey">
+    <div class="harvey__img animated fast" style="background-image: url('{{site.img}}/content/{{page.id}}/nav.jpg');">
       <a class="harvey__link" href="{{site.baseurl}}{{page.url}}"></a>
     </div>
-    <div class="harvey__text animated faster" data-animation="slideFadeRight">
+    <div class="harvey__text animated fast">
       <h3 class="title title--color title--xxl">{{page.title}}</h3>
       <p class="text--xl">{{page.intro}}</p>
       <div class="space--sm"></div>
