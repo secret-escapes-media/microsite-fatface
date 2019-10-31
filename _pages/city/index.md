@@ -13,7 +13,7 @@ offers-title: Find your perfect city escape
 products:
   - id: womens
     name: Women
-    link: https://www.fatface.com/women
+    link: https://www.fatface.com/women?dtm_channel=REF&dtm_source=SecEscCityMS&dtm_campaign=Winter&dtm_content=womens
     product-list:
       - id: 948014
         name: Ariana Silhouette Floral Dress
@@ -34,7 +34,7 @@ products:
 
   - id: mens
     name: Men
-    link: https://www.fatface.com/men
+    link: https://www.fatface.com/men?dtm_channel=REF&dtm_source=SecEscCityMS&dtm_campaign=Winter&dtm_content=mens
     product-list:
       - id: 945476
         name: Cashmere Crew Sweat
@@ -55,7 +55,7 @@ products:
 
   - id: kids
     name: Kids
-    link: https://www.fatface.com/kids
+    link: https://www.fatface.com/kids?dtm_channel=REF&dtm_source=SecEscCityMS&dtm_campaign=Winter&dtm_content=kids
     product-list:
       - id: 946709
         name: Dark Wash Slim Jeans
