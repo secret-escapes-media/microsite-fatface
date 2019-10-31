@@ -4,29 +4,9 @@
   price: 99
   price-description: per room per night
   saved: 63
-  expires: 2019/11/05
+  expires: 2019/11/12
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/31945/5fae41e1_cf13_48dd_a8c4_6a46175c2adc.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-gannet-inn-carbis-bay-cornwall/sale
-
-- title: The Headland Hotel & Spa
-  location: Newquay, Cornwall
-  description: Hotel and cottages near Cornwall's Fistral Beach
-  price: 136
-  price-description: per room per night
-  saved: 26
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/27073/d657b246_3a78_453d_abfa_2a1a6515bac5.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-headland-hotel-and-spa-newquay-cornwall/sale
-
-- title: Carbis Bay Hotel & Estate
-  location: St Ives, Cornwall
-  description: Award-winning St Ives beach hotel with a spa
-  price: 129
-  price-description: per room per night
-  saved: 49
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42163/db39b1af_223c_419a_a2e2_e09586e11ae1.jpg?auto=format,compress
-  link: https://www.secretescapes.com/carbis-bay-hotel-and-estate-st-ives-cornwall/sale
 
 - title: Beachcombers Apartments
   location: Watergate Bay, Cornwall
@@ -38,16 +18,6 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/70632/86376ffc_f52b_4c1c_b257_446e9f57cf86.jpg?auto=format,compress
   link: https://www.secretescapes.com/beachcombers-apartments-watergate-bay-cornwall/sale
 
-- title: The Land's End Hotel
-  location: Land's End, Cornwall
-  description: Traditional Cornish stay on the edge of England
-  price: 75
-  price-description: per room per night
-  saved: 55
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/64097/b1dcadb5_bbe0_4c5c_838c_d351b205377a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-lands-end-hotel-lands-end-cornwall/sale
-
 - title: The Seagate
   location: Appledore, Devon
   description: Lovely quayside B&B in North Devon
@@ -57,3 +27,33 @@
   expires: 2019/11/12
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/103862/eeb89440_1a45_4629_96fe_d6203ab1629d.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-seagate-appledore-devon/sale
+
+- title: Polurrian on the Lizard
+  location: Mullion, Cornwall
+  description: Colourful Cornish retreat with coastal views
+  price: 99
+  price-description: per room per night
+  saved: 56
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/46205/466e63db_481f_4302_bf6c_f12d4a63ec0f.jpg?auto=format,compress
+  link: https://www.secretescapes.com/polurrian-on-the-lizard-mullion-cornwall/sale
+
+- title: Marazion Hotel
+  location: Marazion, Cornwall
+  description: Cosy Cornwall pad close to St Michael’s Mount
+  price: 92
+  price-description: per room per night
+  saved: 57
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103111/5c2b3259_1812_4b6c_91ab_9381ac7d9bb9.jpg?auto=format,compress
+  link: https://www.secretescapes.com/marazion-hotel-marazion-cornwall/sale
+
+- title: Moonfleet Manor Hotel
+  location: Weymouth, Dorset
+  description: Elegant Dorset manor house on Chesil Beach
+  price: 129
+  price-description: per room per night
+  saved: 28
+  expires: 2019/11/05
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/135/2a4abb1d_74ad_4b7a_ada0_a93b61b899bc.jpg?auto=format,compress
+  link: https://www.secretescapes.com/moonfleet-manor-hotel-weymouth-dorset/sale-hotel

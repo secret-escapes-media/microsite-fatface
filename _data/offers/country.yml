@@ -8,23 +8,13 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/89361/ad589778_4168_4ca7_ac31_77dd85ec328e.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-devonshire-arms-sheffield-south-yorkshire/sale
 
-- title: Another Place, The Lake
-  location: Ullswater, Lake District
-  description: Boutique Lake District hotel by Ullswater
-  price: 160
-  price-description: per room per night
-  saved: 22
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103597/377926a5_6afd_4058_86c1_ae243516791d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/another-place-the-lake-ullswater-lake-district/sale
-
 - title: Tudor Farmhouse
   location: Royal Forest of Dean, Gloucestershire
   description: Forest of Dean farmhouse recommended by Condé Nast Traveller
   price: 109
   price-description: per room per night
   saved: 46
-  expires: 2019/11/05
+  expires: 2019/11/12
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/40847/60777d3b_efcf_4f2b_acec_435a90ed6f05.jpg?auto=format,compress
   link: https://www.secretescapes.com/tudor-farmhouse-royal-forest-of-dean-gloucestershire/sale
 
@@ -34,7 +24,7 @@
   price: 118
   price-description: per room per night
   saved: 48
-  expires: 2019/11/05
+  expires: 2019/11/03
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/50556/9db20410_1f3e_4741_a07a_d7d5a293e35c.jpg?auto=format,compress
   link: https://www.secretescapes.com/middleton-lodge-richmond-north-yorkshire/sale
 
@@ -44,16 +34,26 @@
   price: 270
   price-description: per suite per night
   saved: 43
-  expires: 2019/11/05
+  expires: 2019/11/12
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/95148/8ad40b0f_38dc_4fc0_9980_f9def7fa85d6.jpg?auto=format,compress
   link: https://www.secretescapes.com/moddershall-oaks-country-spa-retreat-moddershall-staffordshire/sale
 
 - title: The Welldiggers Arms
   location: Petworth, South Downs
   description: Escape to an acclaimed Epicurean Collection member in the South Downs
-  price: 105
+  price: 95
   price-description: per room per night
   saved: 46
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/39976/5a54c136_55ce_40ec_b760_762ec3d77bca.jpg?auto=format,compress
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103802/a954c2ad_e932_4fcf_9969_de152d22238c.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-welldiggers-arms-petworth-south-downs/sale
+
+- title: The Old Stocks Inn
+  location: Stow-on-the-Wold, Cotswolds
+  description: Boutique 17th-century Cotswolds inn
+  price: 110
+  price-description: per room per night
+  saved: 42
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/39384/e12f72d0_139b_417f_ae2f_89f447ab26b1.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-old-stocks-inn-stow-on-the-wold-cotswolds/sale

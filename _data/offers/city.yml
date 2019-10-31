@@ -28,16 +28,6 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/75497/235b1c01_b464_4ce5_997b_9073b26069e3.jpg?auto=format,compress
   link: https://www.secretescapes.com/citysuites-manchester-city-centre-manchester/sale
 
-- title: The Collective Canary Wharf
-  location: Canary Wharf, London
-  description: New co-living space in London's Canary Wharf
-  price: 68
-  price-description: per room per night
-  saved: 37
-  expires: 2019/10/29
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103258/68553e0d_d5ea_4f04_9673_38100bbe5f19.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-collective-canary-wharf-canary-wharf-london/sale
-
 - title: Middletons Hotel
   location: York, North Yorkshire
   description: Grade II-listed York pad with idyllic gardens
@@ -45,7 +35,7 @@
   price-description: per room per night
   saved: 36
   expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103444/c9263485_7153_459a_bc97_64818a4c7145.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103444/42c9ba01_2f19_4d81_8383_b984cf5b2ea8.jpg?auto=format,compress
   link: https://www.secretescapes.com/middletons-hotel-york-north-yorkshire/sale
 
 - title: Hotel du Vin Henley on Thames
@@ -54,6 +44,16 @@
   price: 109
   price-description: per room per night
   saved: 35
-  expires: 2019/11/05
+  expires: 2019/11/12
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/103237/559d575a_047f_407b_9ba3_41afafe9923c.jpg?auto=format,compress
   link: https://www.secretescapes.com/hotel-du-vin-henley-on-thames-henley-on-thames-oxfordshire/sale
+
+- title: Oxford Spires Hotel
+  location: Oxford, Oxfordshire
+  description: Picturesque spa hotel near Oxford's centre
+  price: 159
+  price-description: per room per night
+  saved: 41
+  expires: 2019/11/12
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60535/a0513239_4d2f_4b63_912f_65e7d4ba1b8a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/oxford-spires-hotel-oxford-oxfordshire/sale
