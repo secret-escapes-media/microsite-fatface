@@ -1,22 +1,12 @@
 - title: The Devonshire Arms
   location: Sheffield, South Yorkshire
   description: Stylish village pub in the Peak District
-  price: 110
+  price: 99
   price-description: per room per night
-  saved: 32
+  saved: 39
   expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89361/ad589778_4168_4ca7_ac31_77dd85ec328e.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103922/97cd1788_3ec0_440d_82a1_eed8e9a766fc.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-devonshire-arms-sheffield-south-yorkshire/sale
-
-- title: Tudor Farmhouse
-  location: Royal Forest of Dean, Gloucestershire
-  description: Forest of Dean farmhouse recommended by Condé Nast Traveller
-  price: 109
-  price-description: per room per night
-  saved: 46
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/40847/60777d3b_efcf_4f2b_acec_435a90ed6f05.jpg?auto=format,compress
-  link: https://www.secretescapes.com/tudor-farmhouse-royal-forest-of-dean-gloucestershire/sale
 
 - title: Moddershall Oaks Country Spa Retreat
   location: Moddershall, Staffordshire
@@ -44,6 +34,26 @@
   price: 110
   price-description: per room per night
   saved: 42
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/39384/e12f72d0_139b_417f_ae2f_89f447ab26b1.jpg?auto=format,compress
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/16475/c6301939_d1c6_4e86_b311_606602d2b608.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-old-stocks-inn-stow-on-the-wold-cotswolds/sale
+
+- title: Wotton House
+  location: Dorking, Surrey
+  description: Rustic glamour at a Grade II-listed Surrey country estate
+  price: 155
+  price-description: per room per night
+  saved: 47
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42262/4a7ae0a0_013c_44b4_ab31_6834e1656196.jpg?auto=format,compress
+  link: https://www.secretescapes.com/wotton-house-dorking-surrey/sale
+
+- title: Danesfield House Hotel & Spa
+  location: Marlow, Buckinghamshire
+  description: A Buckinghamshire estate stay with an award-winning spa
+  price: 219
+  price-description: per room per night
+  saved: 57
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale

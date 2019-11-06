@@ -1,42 +1,12 @@
-- title: The Bonham Hotel
-  location: Edinburgh, Scotland
-  description: Sophisticated Edinburgh townhouse in the West End
-  price: 124
-  price-description: per room per night
-  saved: 43
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98728/0ee1c574_a7cc_4c22_bfe3_bdd7521117cd.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-bonham-hotel-edinburgh-scotland-uk/sale
-
-- title: No.15 Great Pulteney
-  location: Bath, Somerset
-  description: A curio-filled boutique hotel in historic Bath
-  price: 109
-  price-description: per room per night
-  saved: 43
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85243/338f1a6d_999f_4a12_bc91_62d14610c899.jpg?auto=format,compress
-  link: https://www.secretescapes.com/no15-great-pulteney-bath-somerset/sale
-
 - title: CitySuites Manchester
   location: City Centre, Manchester
   description: Luxe central Manchester apartment stay next to chic shops
   price: 100
   price-description: per room per night
   saved: 39
-  expires: 2019/11/12
+  expires: 2019/11/19
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/75497/235b1c01_b464_4ce5_997b_9073b26069e3.jpg?auto=format,compress
   link: https://www.secretescapes.com/citysuites-manchester-city-centre-manchester/sale
-
-- title: Middletons Hotel
-  location: York, North Yorkshire
-  description: Grade II-listed York pad with idyllic gardens
-  price: 89
-  price-description: per room per night
-  saved: 36
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103444/42c9ba01_2f19_4d81_8383_b984cf5b2ea8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/middletons-hotel-york-north-yorkshire/sale
 
 - title: Hotel du Vin Henley on Thames
   location: Henley-on-Thames, Oxfordshire
@@ -44,7 +14,7 @@
   price: 109
   price-description: per room per night
   saved: 35
-  expires: 2019/11/12
+  expires: 2019/11/06
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/103237/559d575a_047f_407b_9ba3_41afafe9923c.jpg?auto=format,compress
   link: https://www.secretescapes.com/hotel-du-vin-henley-on-thames-henley-on-thames-oxfordshire/sale
 
@@ -54,6 +24,36 @@
   price: 159
   price-description: per room per night
   saved: 41
-  expires: 2019/11/12
+  expires: 2019/11/19
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/60535/a0513239_4d2f_4b63_912f_65e7d4ba1b8a.jpg?auto=format,compress
   link: https://www.secretescapes.com/oxford-spires-hotel-oxford-oxfordshire/sale
+
+- title: Oddfellows
+  location: Chester, Cheshire
+  description: Stylish boutique hotel in Chester's heart
+  price: 119
+  price-description: per room per night
+  saved: 44
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104447/cea12977_a9b8_4ab8_9a5d_834413882765.jpg?auto=format,compress
+  link: https://www.secretescapes.com/oddfellows-chester-cheshire/sale
+
+- title: New Road Hotel
+  location: Whitechapel, London
+  description: An urban bolthole with an edge in East London
+  price: 102
+  price-description: per room per night
+  saved: 38
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg?auto=format,compress
+  link: https://www.secretescapes.com/new-road-hotel-whitechapel-london-uk/sale
+
+- title: Francis Hotel Bath - MGallery Hotel Collection
+  location: Bath, Somerset
+  description: 18th-century Georgian townhouse stay in Bath
+  price: 105
+  price-description: per room per night
+  saved: 38
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/66370/ae3c7dc9_d397_488e_a61f_5d3a700d99c6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/francis-hotel-bath-mgallery-hotel-collection-bath-somerset/sale

@@ -5,7 +5,7 @@
   price-description: per room per night
   saved: 63
   expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/31945/5fae41e1_cf13_48dd_a8c4_6a46175c2adc.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/31945/ba25016f_a0c7_48cb_aae7_de8baf364d4b.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-gannet-inn-carbis-bay-cornwall/sale
 
 - title: Beachcombers Apartments
@@ -24,8 +24,8 @@
   price: 69
   price-description: per room per night
   saved: 42
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103862/eeb89440_1a45_4629_96fe_d6203ab1629d.jpg?auto=format,compress
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103862/341956d1_0cd6_4946_82d1_19b1293ad3eb.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-seagate-appledore-devon/sale
 
 - title: Polurrian on the Lizard
@@ -38,22 +38,22 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/46205/466e63db_481f_4302_bf6c_f12d4a63ec0f.jpg?auto=format,compress
   link: https://www.secretescapes.com/polurrian-on-the-lizard-mullion-cornwall/sale
 
-- title: Marazion Hotel
-  location: Marazion, Cornwall
-  description: Cosy Cornwall pad close to St Michael’s Mount
-  price: 92
-  price-description: per room per night
-  saved: 57
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103111/5c2b3259_1812_4b6c_91ab_9381ac7d9bb9.jpg?auto=format,compress
-  link: https://www.secretescapes.com/marazion-hotel-marazion-cornwall/sale
+- title: Bay Retreat Villas
+  location: near Padstow, Cornwall
+  description: Villa stay near the foodie mecca of Padstow
+  price: 35
+  price-description: per villa per night
+  saved: 51
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/44101/03d999ad_d9ce_4904_9e84_28ca88177039.jpg?auto=format,compress
+  link: https://www.secretescapes.com/bay-retreat-villas-near-padstow-cornwall/sale
 
-- title: Moonfleet Manor Hotel
-  location: Weymouth, Dorset
-  description: Elegant Dorset manor house on Chesil Beach
-  price: 129
+- title: Sands Resort Hotel & Spa
+  location: Porth, Cornwall
+  description: Award-winning hotel by Newquay set right by the sea
+  price: 130
   price-description: per room per night
-  saved: 28
-  expires: 2019/11/05
-  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/135/2a4abb1d_74ad_4b7a_ada0_a93b61b899bc.jpg?auto=format,compress
-  link: https://www.secretescapes.com/moonfleet-manor-hotel-weymouth-dorset/sale-hotel
+  saved: 41
+  expires: 2019/11/19
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103734/e12842cf_7283_46fe_b835_91060f1b1a8a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/sands-resort-hotel-and-spa-porth-cornwall/sale
