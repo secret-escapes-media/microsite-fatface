@@ -14,8 +14,8 @@
   price: 159
   price-description: per room per night
   saved: 41
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60535/a0513239_4d2f_4b63_912f_65e7d4ba1b8a.jpg?auto=format,compress
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/68094/2a5f877b_0a58_420e_8402_17274219dba8.jpg?auto=format,compress
   link: https://www.secretescapes.com/oxford-spires-hotel-oxford-oxfordshire/sale
 
 - title: Oddfellows
@@ -24,7 +24,7 @@
   price: 119
   price-description: per room per night
   saved: 44
-  expires: 2019/11/19
+  expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/104447/cea12977_a9b8_4ab8_9a5d_834413882765.jpg?auto=format,compress
   link: https://www.secretescapes.com/oddfellows-chester-cheshire/sale
 
@@ -47,3 +47,13 @@
   expires: 2019/11/19
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/66370/ae3c7dc9_d397_488e_a61f_5d3a700d99c6.jpg?auto=format,compress
   link: https://www.secretescapes.com/francis-hotel-bath-mgallery-hotel-collection-bath-somerset/sale
+
+- title: Seel Street Hotel by Epic
+  location: Liverpool, Merseyside
+  description: Chic boutique hotel in Liverpool's city centre
+  price: 49
+  price-description: per room per night
+  saved: 50
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/88189/59f0181f_d372_49e8_a31c_cfd3b18365cd.jpg?auto=format,compress
+  link: https://www.secretescapes.com/seel-street-hotel-by-epic-liverpool-merseyside/sale

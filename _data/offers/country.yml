@@ -1,51 +1,11 @@
-- title: The Devonshire Arms
-  location: Sheffield, South Yorkshire
-  description: Stylish village pub in the Peak District
-  price: 99
-  price-description: per room per night
-  saved: 39
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103922/97cd1788_3ec0_440d_82a1_eed8e9a766fc.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-devonshire-arms-sheffield-south-yorkshire/sale
-
-- title: Moddershall Oaks Country Spa Retreat
-  location: Moddershall, Staffordshire
-  description: Suite dreams at a Good Spa Guide-rated Staffordshire retreat
-  price: 270
-  price-description: per suite per night
-  saved: 43
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/95148/8ad40b0f_38dc_4fc0_9980_f9def7fa85d6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/moddershall-oaks-country-spa-retreat-moddershall-staffordshire/sale
-
-- title: The Welldiggers Arms
-  location: Petworth, South Downs
-  description: Escape to an acclaimed Epicurean Collection member in the South Downs
-  price: 95
-  price-description: per room per night
-  saved: 46
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103802/a954c2ad_e932_4fcf_9969_de152d22238c.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-welldiggers-arms-petworth-south-downs/sale
-
-- title: The Old Stocks Inn
-  location: Stow-on-the-Wold, Cotswolds
-  description: Boutique 17th-century Cotswolds inn
-  price: 110
-  price-description: per room per night
-  saved: 42
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/16475/c6301939_d1c6_4e86_b311_606602d2b608.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-old-stocks-inn-stow-on-the-wold-cotswolds/sale
-
 - title: Wotton House
   location: Dorking, Surrey
   description: Rustic glamour at a Grade II-listed Surrey country estate
   price: 155
   price-description: per room per night
   saved: 47
-  expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/78303/e692088e_9f49_4ae5_8cda_fc08572eddea.jpg?auto=format,compress
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/70610/935813bf_460b_4528_bf6a_2bde5e4e858d.jpg?auto=format,compress
   link: https://www.secretescapes.com/wotton-house-dorking-surrey/sale
 
 - title: Danesfield House Hotel & Spa
@@ -54,6 +14,36 @@
   price: 219
   price-description: per room per night
   saved: 57
-  expires: 2019/11/19
+  expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg?auto=format,compress
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
+
+- title: Bishopstrow Hotel & Spa
+  location: Warminster, Wiltshire
+  description: Historic hotel with a spa in Wiltshire's fresh countryside
+  price: 175
+  price-description: per room per night
+  saved: 60
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85799/ae61a9b4_d891_47d6_b594_63ecbecd74d3.jpg?auto=format,compress
+  link: https://www.secretescapes.com/bishopstrow-hotel-and-spa-warminster-wiltshire/sale
+
+- title: De Vere Latimer Estate
+  location: Chesham, Buckinghamshire
+  description: Refurbished Buckinghamshire country mansion
+  price: 139
+  price-description: per room per night
+  saved: 32
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
+  link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
+
+- title: Redesdale Arms
+  location: Moreton-in-Marsh, Cotswolds
+  description: Quaint Cotswolds inn with award-winning restaurant
+  price: 69
+  price-description: per room per night
+  saved: 47
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/100600/2a6faa2f_f8e9_4453_b3ca_f6f21d7f5560.jpg?auto=format,compress
+  link: https://www.secretescapes.com/redesdale-arms-moreton-in-marsh-cotswolds-uk-sale/sale

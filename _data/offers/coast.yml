@@ -1,59 +1,59 @@
-- title: The Gannet Inn
-  location: Carbis Bay, Cornwall
-  description: Boutique Cornwall pad perfect for food-lovers
-  price: 99
-  price-description: per room per night
-  saved: 63
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/31945/ba25016f_a0c7_48cb_aae7_de8baf364d4b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-gannet-inn-carbis-bay-cornwall/sale
-
-- title: Beachcombers Apartments
-  location: Watergate Bay, Cornwall
-  description: Self-catered Cornwall stay by Watergate Bay
-  price: 56
-  price-description: per apartment per night
-  saved: 41
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/70632/86376ffc_f52b_4c1c_b257_446e9f57cf86.jpg?auto=format,compress
-  link: https://www.secretescapes.com/beachcombers-apartments-watergate-bay-cornwall/sale
-
-- title: The Seagate
-  location: Appledore, Devon
-  description: Lovely quayside B&B in North Devon
-  price: 69
-  price-description: per room per night
-  saved: 42
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103862/341956d1_0cd6_4946_82d1_19b1293ad3eb.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-seagate-appledore-devon/sale
-
-- title: Polurrian on the Lizard
-  location: Mullion, Cornwall
-  description: Colourful Cornish retreat with coastal views
-  price: 99
-  price-description: per room per night
-  saved: 56
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/46205/466e63db_481f_4302_bf6c_f12d4a63ec0f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/polurrian-on-the-lizard-mullion-cornwall/sale
-
 - title: Bay Retreat Villas
   location: near Padstow, Cornwall
   description: Villa stay near the foodie mecca of Padstow
   price: 35
   price-description: per villa per night
   saved: 51
-  expires: 2019/11/19
+  expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/44101/03d999ad_d9ce_4904_9e84_28ca88177039.jpg?auto=format,compress
   link: https://www.secretescapes.com/bay-retreat-villas-near-padstow-cornwall/sale
 
-- title: Sands Resort Hotel & Spa
-  location: Porth, Cornwall
-  description: Award-winning hotel by Newquay set right by the sea
-  price: 130
+- title: Langstone Quays Resort
+  location: Hayling Island, Portsmouth
+  description: Hayling Island hotel with estuary views
+  price: 79
   price-description: per room per night
-  saved: 41
-  expires: 2019/11/12
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103734/dc880f60_6278_4f69_8717_a60b0c98dfda.jpg?auto=format,compress
-  link: https://www.secretescapes.com/sands-resort-hotel-and-spa-porth-cornwall/sale
+  saved: 36
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/86659/7c93e676_167a_46c8_ae71_ca0b2acdcf0a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/langstone-quays-resort-hayling-island-portsmouth/sale
+
+- title: The Yarrow Hotel
+  location: Broadstairs, Kent
+  description: Comfortable stay in Kent's renowned Broadstairs
+  price: 99
+  price-description: per room per night
+  saved: 28
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/63342/5c698f4c_852f_4a5d_bac1_3c71a5d3b3e9.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-yarrow-hotel-broadstairs-kent/sale
+
+- title: Brooklands Hotel
+  location: Weybridge, Surrey
+  description: A modern English spa getaway, with Art Deco-inspired decor
+  price: 115
+  price-description: per room per night
+  saved: 49
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75410/22b36380_7bfe_408b_a427_00fb8c635d61.jpg?auto=format,compress
+  link: https://www.secretescapes.com/brooklands-hotel-weybridge-surrey/sale
+
+- title: The Cumberland
+  location: Bournemouth, Dorset
+  description: Art Deco digs and award-winning dining in Bournemouth
+  price: 95
+  price-description: per room per night
+  saved: 50
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104920/81d2a276_3753_4c84_9eb7_e2b8357e239c.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-cumberland-bournemouth-dorset-uk/sale
+
+- title: St Michaels Resort
+  location: Falmouth, Cornwall
+  description: Two AA Rosette dining in glorious Cornwall
+  price: 125
+  price-description: per room per night
+  saved: 31
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/80775/b17b152b_23b2_4d6e_b46b_8f7a2b7fab33.jpg?auto=format,compress
+  link: https://www.secretescapes.com/st-michaels-resort-falmouth-cornwall/sale
