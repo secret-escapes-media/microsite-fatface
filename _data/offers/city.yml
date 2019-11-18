@@ -8,16 +8,6 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/75497/235b1c01_b464_4ce5_997b_9073b26069e3.jpg?auto=format,compress
   link: https://www.secretescapes.com/citysuites-manchester-city-centre-manchester/sale
 
-- title: Oxford Spires Hotel
-  location: Oxford, Oxfordshire
-  description: Picturesque spa hotel near Oxford's centre
-  price: 159
-  price-description: per room per night
-  saved: 41
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/68094/2a5f877b_0a58_420e_8402_17274219dba8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/oxford-spires-hotel-oxford-oxfordshire/sale
-
 - title: Oddfellows
   location: Chester, Cheshire
   description: Stylish boutique hotel in Chester's heart
@@ -25,7 +15,7 @@
   price-description: per room per night
   saved: 44
   expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104447/cea12977_a9b8_4ab8_9a5d_834413882765.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104447/3e854524_3fee_4a0f_8995_c73d342fd8e9.jpg?auto=format,compress
   link: https://www.secretescapes.com/oddfellows-chester-cheshire/sale
 
 - title: New Road Hotel
@@ -45,7 +35,7 @@
   price-description: per room per night
   saved: 38
   expires: 2019/11/19
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/66370/ae3c7dc9_d397_488e_a61f_5d3a700d99c6.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76799/a22930d4_0829_4697_bf97_e31d45e823cc.jpg?auto=format,compress
   link: https://www.secretescapes.com/francis-hotel-bath-mgallery-hotel-collection-bath-somerset/sale
 
 - title: Seel Street Hotel by Epic
@@ -55,5 +45,15 @@
   price-description: per room per night
   saved: 50
   expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/88189/59f0181f_d372_49e8_a31c_cfd3b18365cd.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/88189/de0ac7df_9b5c_48ab_96f6_44f0f03e5fba.jpg?auto=format,compress
   link: https://www.secretescapes.com/seel-street-hotel-by-epic-liverpool-merseyside/sale
+
+- title: The Bird
+  location: Bath, Somerset
+  description: Chic Bath abode in the historic centre
+  price: 98
+  price-description: per room per night
+  saved: 45
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/88535/f7038a96_121e_4a89_91e6_2f86a7e9885a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-bird-bath-somerset/sale

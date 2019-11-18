@@ -15,7 +15,7 @@
   price-description: per room per night
   saved: 57
   expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/86504/38cd8c6a_815c_4430_ae52_ab8b5479d734.jpg?auto=format,compress
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
 
 - title: Bishopstrow Hotel & Spa
@@ -25,7 +25,7 @@
   price-description: per room per night
   saved: 60
   expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85799/ae61a9b4_d891_47d6_b594_63ecbecd74d3.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104040/20210538_7e50_42b4_a852_d38545522dfb.jpg?auto=format,compress
   link: https://www.secretescapes.com/bishopstrow-hotel-and-spa-warminster-wiltshire/sale
 
 - title: De Vere Latimer Estate
@@ -47,3 +47,13 @@
   expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/100600/2a6faa2f_f8e9_4453_b3ca_f6f21d7f5560.jpg?auto=format,compress
   link: https://www.secretescapes.com/redesdale-arms-moreton-in-marsh-cotswolds-uk-sale/sale
+
+- title: The Devonshire Arms Hotel & Spa
+  location: Skipton, Yorkshire Dales
+  description: Yorkshire Dales country house hotel on Bolton Abbey Estate
+  price: 270
+  price-description: per room per night
+  saved: 25
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85024/3b22312e_ec20_4ddd_8b10_af0f5a3f5be5.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-devonshire-arms-hotel-and-spa-skipton-yorkshire-dales/sale
