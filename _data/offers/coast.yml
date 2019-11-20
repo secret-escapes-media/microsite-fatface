@@ -1,32 +1,12 @@
-- title: Bay Retreat Villas
-  location: near Padstow, Cornwall
-  description: Villa stay near the foodie mecca of Padstow
-  price: 35
-  price-description: per villa per night
-  saved: 51
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/26337/06a478b5_b318_41fb_a177_83485092d1dd.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bay-retreat-villas-near-padstow-cornwall/sale
-
 - title: Langstone Quays Resort
   location: Hayling Island, Portsmouth
   description: Hayling Island hotel with estuary views
   price: 79
   price-description: per room per night
   saved: 36
-  expires: 2019/11/26
+  expires: 2019/12/03
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/86659/7c93e676_167a_46c8_ae71_ca0b2acdcf0a.jpg?auto=format,compress
   link: https://www.secretescapes.com/langstone-quays-resort-hayling-island-portsmouth/sale
-
-- title: The Yarrow Hotel
-  location: Broadstairs, Kent
-  description: Comfortable stay in Kent's renowned Broadstairs
-  price: 99
-  price-description: per room per night
-  saved: 28
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/63342/5c698f4c_852f_4a5d_bac1_3c71a5d3b3e9.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-yarrow-hotel-broadstairs-kent/sale
 
 - title: Brooklands Hotel
   location: Weybridge, Surrey
@@ -34,7 +14,7 @@
   price: 115
   price-description: per room per night
   saved: 49
-  expires: 2019/11/26
+  expires: 2019/12/03
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/75410/22b36380_7bfe_408b_a427_00fb8c635d61.jpg?auto=format,compress
   link: https://www.secretescapes.com/brooklands-hotel-weybridge-surrey/sale
 
@@ -44,7 +24,7 @@
   price: 95
   price-description: per room per night
   saved: 50
-  expires: 2019/11/26
+  expires: 2019/12/03
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/104920/81d2a276_3753_4c84_9eb7_e2b8357e239c.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-cumberland-bournemouth-dorset-uk/sale
 
@@ -57,3 +37,23 @@
   expires: 2019/11/26
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/80775/59bc50b7_ced5_4e7c_8021_a8e9d3a71e97.jpg?auto=format,compress
   link: https://www.secretescapes.com/st-michaels-resort-falmouth-cornwall/sale
+
+- title: The Old Quay House Hotel
+  location: Fowey, Cornwall
+  description: Boutique seaside stay in south Cornwall
+  price: 152
+  price-description: per room per night
+  saved: 35
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105107/d679e748_4a97_424c_9774_519c2122a445.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-old-quay-house-hotel-fowey-cornwall-uk/sale
+
+- title: Burgh Island Hotel
+  location: Bigbury-on-Sea, Devon
+  description: Legendary Art Deco stay on a Devon private island
+  price: 199
+  price-description: per room per night
+  saved: 42
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105379/eec95b7e_eaad_4180_90df_f059bed2d0a8.jpg?auto=format,compress
+  link: https://www.secretescapes.com/burgh-island-hotel-bigbury-on-sea-devon/sale
