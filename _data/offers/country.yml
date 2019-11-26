@@ -1,7 +1,7 @@
 - title: Wotton House
   location: Dorking, Surrey
   description: Rustic glamour at a Grade II-listed Surrey country estate
-  price: 155
+  price: 140
   price-description: per room per night
   saved: 47
   expires: 2019/12/03
@@ -31,29 +31,29 @@
 - title: De Vere Latimer Estate
   location: Chesham, Buckinghamshire
   description: Refurbished Buckinghamshire country mansion
-  price: 139
+  price: 125
   price-description: per room per night
-  saved: 32
+  saved: 39
   expires: 2019/12/03
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
   link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
 
-- title: Redesdale Arms
-  location: Moreton-in-Marsh, Cotswolds
-  description: Quaint Cotswolds inn with award-winning restaurant
-  price: 69
-  price-description: per room per night
-  saved: 47
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/100600/2a6faa2f_f8e9_4453_b3ca_f6f21d7f5560.jpg?auto=format,compress
-  link: https://www.secretescapes.com/redesdale-arms-moreton-in-marsh-cotswolds-uk-sale/sale
+- title: The Big Cat Sanctuary
+  location: Ashford, Kent
+  description: Unique endangered big cat sanctuary in Kent
+  price: 599
+  price-description: per lodge per night
+  saved: 23
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/82804/b1549609_b26a_47a4_a78b_15200a5f499d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-big-cat-sanctuary-ashford-kent/sale
 
-- title: The Devonshire Arms Hotel & Spa
-  location: Skipton, Yorkshire Dales
-  description: Yorkshire Dales country house hotel on Bolton Abbey Estate
-  price: 270
+- title: Laura Ashley Hotel - The Belsfield
+  location: Bowness-on-Windermere, Lake District
+  description: Chic Laura Ashley-designed Lake District stay
+  price: 139
   price-description: per room per night
-  saved: 25
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/85024/3b22312e_ec20_4ddd_8b10_af0f5a3f5be5.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-devonshire-arms-hotel-and-spa-skipton-yorkshire-dales/sale
+  saved: 35
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/61967/4c6e4ed1_9c02_4bde_9335_5fdcf13658f1.jpg?auto=format,compress
+  link: https://www.secretescapes.com/laura-ashley-hotel-the-belsfield-bowness-on-windermere-lake-district/sale
