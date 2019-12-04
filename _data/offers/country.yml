@@ -1,52 +1,22 @@
-- title: Wotton House
-  location: Dorking, Surrey
-  description: Rustic glamour at a Grade II-listed Surrey country estate
-  price: 140
-  price-description: per room per night
-  saved: 47
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/70610/935813bf_460b_4528_bf6a_2bde5e4e858d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/wotton-house-dorking-surrey/sale
-
 - title: Danesfield House Hotel & Spa
   location: Marlow, Buckinghamshire
   description: A Buckinghamshire estate stay with an award-winning spa
   price: 219
   price-description: per room per night
   saved: 57
-  expires: 2019/12/03
+  expires: 2019/12/17
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/86504/38cd8c6a_815c_4430_ae52_ab8b5479d734.jpg?auto=format,compress
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
-
-- title: Bishopstrow Hotel & Spa
-  location: Warminster, Wiltshire
-  description: Historic hotel with a spa in Wiltshire's fresh countryside
-  price: 175
-  price-description: per room per night
-  saved: 60
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104040/20210538_7e50_42b4_a852_d38545522dfb.jpg?auto=format,compress
-  link: https://www.secretescapes.com/bishopstrow-hotel-and-spa-warminster-wiltshire/sale
 
 - title: De Vere Latimer Estate
   location: Chesham, Buckinghamshire
   description: Refurbished Buckinghamshire country mansion
-  price: 125
+  price: 139
   price-description: per room per night
-  saved: 39
-  expires: 2019/12/03
+  saved: 32
+  expires: 2019/12/10
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
   link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
-
-- title: The Big Cat Sanctuary
-  location: Ashford, Kent
-  description: Unique endangered big cat sanctuary in Kent
-  price: 599
-  price-description: per lodge per night
-  saved: 23
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/82804/b1549609_b26a_47a4_a78b_15200a5f499d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-big-cat-sanctuary-ashford-kent/sale
 
 - title: Laura Ashley Hotel - The Belsfield
   location: Bowness-on-Windermere, Lake District
@@ -54,6 +24,26 @@
   price: 139
   price-description: per room per night
   saved: 35
-  expires: 2019/12/10
+  expires: 2019/12/17
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/61967/4c6e4ed1_9c02_4bde_9335_5fdcf13658f1.jpg?auto=format,compress
   link: https://www.secretescapes.com/laura-ashley-hotel-the-belsfield-bowness-on-windermere-lake-district/sale
+
+- title: The Norfolk Mead Hotel
+  location: Norwich, Norfolk
+  description: Norfolk Broads base with award-winning dining
+  price: 169
+  price-description: per room per night
+  saved: 39
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/39000/01972d69_a84b_4533_8be0_d5434c05dd56.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-norfolk-mead-hotel-norwich-norfolk/sale
+
+- title: Saltmarshe Hall
+  location: Howden, East Yorkshire
+  description: Grand Yorkshire manor stay on the River Ouse
+  price: 175
+  price-description: per room per night
+  saved: 22
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91151/642aa356_fddd_413f_bd37_684a3a5ef2ff.jpg?auto=format,compress
+  link: https://www.secretescapes.com/saltmarshe-hall-howden-east-yorkshire/sale

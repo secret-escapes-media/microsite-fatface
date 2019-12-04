@@ -1,59 +1,49 @@
-- title: Oddfellows
-  location: Chester, Cheshire
-  description: Stylish boutique hotel in Chester's heart
-  price: 119
-  price-description: per room per night
-  saved: 44
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104447/3e854524_3fee_4a0f_8995_c73d342fd8e9.jpg?auto=format,compress
-  link: https://www.secretescapes.com/oddfellows-chester-cheshire/sale
-
-- title: Seel Street Hotel by Epic
-  location: Liverpool, Merseyside
-  description: Chic boutique hotel in Liverpool's city centre
-  price: 44
-  price-description: per room per night
-  saved: 55
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/88189/59f0181f_d372_49e8_a31c_cfd3b18365cd.jpg?auto=format,compress
-  link: https://www.secretescapes.com/seel-street-hotel-by-epic-liverpool-merseyside/sale
-
 - title: The Bird
   location: Bath, Somerset
   description: Chic Bath abode in the historic centre
-  price: 89
+  price: 98
   price-description: per room per night
-  saved: 51
-  expires: 2019/12/03
+  saved: 45
+  expires: 2019/12/10
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/105324/5f0e2f1a_6e62_403b_a667_e789e2c9a605.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-bird-bath-somerset/sale
 
-- title: Hotel du Vin Stratford-upon-Avon
-  location: Stratford-upon-Avon, Warwickshire
-  description: Boutique stay in the heart of Shakespeare’s Stratford
-  price: 101
+- title: The Grand York
+  location: York, North Yorkshire
+  description: Five-star York stay with a spa and three AA Rosette-dining
+  price: 150
   price-description: per room per night
-  saved: 27
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/67852/f8be8535_b4fe_4139_afe6_5902fda1220c.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-du-vin-stratford-upon-avon-stratford-upon-avon-warwickshire/sale
+  saved: 28
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/74310/311e970b_3d65_489f_8077_65f96bcd681d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-grand-york-york-north-yorkshire/sale
 
-- title: Green Dragon Hotel
-  location: Hereford, Herefordshire
-  description: Sophisticated Georgian glamour in the heart of Hereford
-  price: 101
+- title: The Hoxton, Shoreditch
+  location: Shoreditch, East London
+  description: Hip Hoxton hotel in the heart of London's Shoreditch
+  price: 110
   price-description: per room per night
-  saved: 49
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103003/699b752f_01a0_475f_a84d_8fa496b34c5d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/green-dragon-hotel-hereford-herefordshire/sale
+  saved: 23
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69255/00832dc8_cdb8_40fe_9baa_6005e6d40f68.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-hoxton-shoreditch-shoreditch-east-london/sale
 
-- title: Wilde Aparthotels by Staycity Covent Garden
-  location: Covent Garden, London
-  description: Sleek Covent Garden apartment stay
-  price: 128
+- title: Stylish mystery Edinburgh hotel
+  location: Edinburgh, Scotland
+  description: Discover historic Edinburgh from modern digs
+  price: 68
   price-description: per room per night
-  saved: 34
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105380/5fe75167_df63_4088_b000_c6fe34becda4.jpg?auto=format,compress
-  link: https://www.secretescapes.com/wilde-apartments-by-staycity-covent-garden-london/sale
+  saved: 41
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/54788/719050b0_83ab_49aa_b894_1321b54086db.jpg?auto=format,compress
+  link: https://www.secretescapes.com/stylish-mystery-edinburgh-hotel/sale
+
+- title: Aztec Hotel & Spa
+  location: Almondsbury, Bristol
+  description: Unwind in Bristol's outskirts at a relaxing spa hotel with prized dining
+  price: 65
+  price-description: per room per night
+  saved: 61
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/79630/c5d55ca2_60db_48c2_87fb_38cf64762aa2.jpg?auto=format,compress
+  link: https://www.secretescapes.com/aztec-hotel-and-spa-almondsbury-bristol/sale

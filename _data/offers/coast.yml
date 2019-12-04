@@ -1,21 +1,11 @@
-- title: Langstone Quays Resort
-  location: Hayling Island, Portsmouth
-  description: Hayling Island hotel with estuary views
-  price: 79
-  price-description: per room per night
-  saved: 36
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/86659/7c93e676_167a_46c8_ae71_ca0b2acdcf0a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/langstone-quays-resort-hayling-island-portsmouth/sale
-
 - title: Brooklands Hotel
   location: Weybridge, Surrey
   description: A modern English spa getaway, with Art Deco-inspired decor
   price: 115
   price-description: per room per night
   saved: 49
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75410/22b36380_7bfe_408b_a427_00fb8c635d61.jpg?auto=format,compress
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75410/93bc50ae_410f_474d_9b45_8f19ae612a5d.jpg?auto=format,compress
   link: https://www.secretescapes.com/brooklands-hotel-weybridge-surrey/sale
 
 - title: The Cumberland
@@ -24,19 +14,9 @@
   price: 95
   price-description: per room per night
   saved: 50
-  expires: 2019/12/03
+  expires: 2019/12/10
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/58037/f0e41dbd_f12b_4081_8603_8c60b606fb76.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-cumberland-bournemouth-dorset-uk/sale
-
-- title: The Old Quay House Hotel
-  location: Fowey, Cornwall
-  description: Boutique seaside stay in south Cornwall
-  price: 137
-  price-description: per room per night
-  saved: 41
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105107/76da7776_63b2_439a_8396_31321fc062ff.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-old-quay-house-hotel-fowey-cornwall-uk/sale
 
 - title: Burgh Island Hotel
   location: Bigbury-on-Sea, Devon
@@ -44,16 +24,26 @@
   price: 199
   price-description: per room per night
   saved: 42
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105379/eec95b7e_eaad_4180_90df_f059bed2d0a8.jpg?auto=format,compress
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105379/f0cb4a08_dd44_4e4e_a485_19045c41e70a.jpg?auto=format,compress
   link: https://www.secretescapes.com/burgh-island-hotel-bigbury-on-sea-devon/sale
 
-- title: Lakeside Park Hotel & Spa
-  location: Ryde, Isle of Wight
-  description: True Isle of Wight tranquillity at a spa hotel in Ryde
-  price: 153
+- title: Cley Windmill
+  location: Holt, Norfolk
+  description: Romantic windmill stay on Norfolk's beautiful coast
+  price: 119
   price-description: per room per night
   saved: 41
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/43998/263f5018_d25a_4da9_ab0b_8dc4dd90557c.jpg?auto=format,compress
-  link: https://www.secretescapes.com/lakeside-park-hotel-and-spa-ryde-isle-of-wight/sale
+  expires: 2019/12/17
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105807/7d6588bd_93fc_43e5_9c8a_d79cfdeec08f.jpg?auto=format,compress
+  link: https://www.secretescapes.com/cley-windmill-holt-norfolk-uk/sale
+
+- title: Carbis Bay Hotel & Estate
+  location: St Ives, Cornwall
+  description: Award-winning St Ives beach hotel with a spa
+  price: 109
+  price-description: per room per night
+  saved: 56
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42163/db39b1af_223c_419a_a2e2_e09586e11ae1.jpg?auto=format,compress
+  link: https://www.secretescapes.com/carbis-bay-hotel-and-estate-st-ives-cornwall/sale
