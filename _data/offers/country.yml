@@ -4,7 +4,7 @@
   price: 219
   price-description: per room per night
   saved: 57
-  expires: 2019/12/17
+  expires: 2019/12/24
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/86504/38cd8c6a_815c_4430_ae52_ab8b5479d734.jpg?auto=format,compress
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
 
@@ -14,7 +14,7 @@
   price: 139
   price-description: per room per night
   saved: 35
-  expires: 2019/12/17
+  expires: 2019/12/24
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/61967/4c6e4ed1_9c02_4bde_9335_5fdcf13658f1.jpg?auto=format,compress
   link: https://www.secretescapes.com/laura-ashley-hotel-the-belsfield-bowness-on-windermere-lake-district/sale
 
@@ -24,7 +24,7 @@
   price: 175
   price-description: per room per night
   saved: 22
-  expires: 2019/12/17
+  expires: 2019/12/24
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/91151/642aa356_fddd_413f_bd37_684a3a5ef2ff.jpg?auto=format,compress
   link: https://www.secretescapes.com/saltmarshe-hall-howden-east-yorkshire/sale
 
@@ -51,7 +51,7 @@
 - title: The Bell in Ticehurst
   location: Ticehurst, East Sussex
   description: Relax at a rustic-chic, award-winning East Sussex inn
-  price: 75
+  price: 105
   price-description: per room per night
   saved: 60
   expires: 2019/12/24
