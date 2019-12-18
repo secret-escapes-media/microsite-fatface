@@ -1,12 +1,3 @@
-- title: The Grand York
-  location: York, North Yorkshire
-  description: Five-star York stay with a spa and three AA Rosette-dining
-  price: 150
-  price-description: per room per night
-  saved: 28
-  expires: 2019/12/15
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/74310/6b774cc3_272f_47d2_836f_8c73f8c2690b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-grand-york-york-north-yorkshire/sale
 
 - title: The Hoxton, Shoreditch
   location: Shoreditch, East London
@@ -17,16 +8,6 @@
   expires: 2019/12/24
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/69255/00832dc8_cdb8_40fe_9baa_6005e6d40f68.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-hoxton-shoreditch-shoreditch-east-london/sale
-
-- title: Stylish mystery Edinburgh hotel
-  location: Edinburgh, Scotland
-  description: Discover historic Edinburgh from modern digs
-  price: 62
-  price-description: per room per night
-  saved: 41
-  expires: 2019/12/24
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/54788/719050b0_83ab_49aa_b894_1321b54086db.jpg?auto=format,compress
-  link: https://www.secretescapes.com/stylish-mystery-edinburgh-hotel/sale
 
 - title: Aztec Hotel & Spa
   location: Almondsbury, Bristol
@@ -48,12 +29,12 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/50994/85c4dec4_76a7_4808_8c8c_d502b7b66725.jpg?auto=format,compress
   link: https://www.secretescapes.com/poets-house-ely-cambridgeshire-uk/sale
 
-- title: Hotel du Vin & Bistro
-  location: Harrogate, North Yorkshire
-  description: Harrogate hotel with Georgian architecture
-  price: 99
+- title: The Queensberry Hotel
+  location: Bath, Somerset
+  description: Georgian Bath hotel with Michelin-star dining
+  price: 121
   price-description: per room per night
-  saved: 30
-  expires: 2019/12/17
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105564/884366eb_5fe4_4ca1_92bf_5184755d052b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-du-vin-and-bistro-harrogate-north-yorkshire/sale
+  saved: 52
+  expires: 2019/12/31
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/63609/1b6ed5b7_fc17_44d4_8118_f3b73acb3236.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-queensberry-hotel-bath-somerset/sale
